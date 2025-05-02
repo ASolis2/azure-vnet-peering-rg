@@ -50,9 +50,7 @@ This project demonstrates how to provision two virtual networks in separate reso
 
 ## 📸 Screenshot
 
-Be sure to include a screenshot of the terminal output after apply:
-
-- `terraform-vnet-peering-success.png`
+![Screenshot](terraform-vnet-peering-success.png)
 
 ## 🔁 GitHub Steps
 
